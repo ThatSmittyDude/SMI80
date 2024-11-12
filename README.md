@@ -15,6 +15,6 @@ I'm encouraging anyone interested to help, here are somne ideas that I currently
     -Or really anything neet/useful
 
 I'm not a developer, I'm just a hobbist. So my code likely is not prefect, feel free to point out any flaws or suggest other ways to code better.
-Thank you!
 
+Thank you!
 -Smitty
