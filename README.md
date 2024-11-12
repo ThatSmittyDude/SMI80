@@ -6,13 +6,13 @@ The goal is to eventually develop this collection of software into a Real Time O
 
 I'm encouraging anyone interested to help, here are somne ideas that I currently have for the project:
   
-  -Single board Computer
+    -Single board Computer
   
-  -Retro Desktop
+    -Retro Desktop
   
-  -Handheld device, like a calculator or something
+    -Handheld device, like a calculator or something
   
-  -Or really anything neet/useful
+    -Or really anything neet/useful
 
 I'm not a developer, I'm just a hobbist. So my code likely is not be prefect, feel free to point out any flaws or suggest other ways to code better.
 Thank you!
